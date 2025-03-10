@@ -76,3 +76,6 @@ Desktop.ini
 # Project specific
 # Uncomment the following line if you want to keep your spec file in the repo
 !BoxBreath_v1.1.spec
+
+# Planning documents
+PLANNED-FEATURES.md
